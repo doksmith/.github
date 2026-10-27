@@ -4,9 +4,9 @@ Production-ready, multi-architecture (`linux/amd64`, `linux/arm64`) Docker conta
 
 ---
 
-## 🌟 Core Standards & Features
+## Core Standards and Features
 
-- **Multi-Architecture**: Built natively for `linux/amd64` and `linux/arm64` via Docker Buildx & QEMU.
+- **Multi-Architecture**: Built natively for `linux/amd64` and `linux/arm64` via Docker Buildx and QEMU.
 - **Fast Builds (Zero Compilation Overhead)**: Leveraging Alpine Linux native pre-compiled binaries to ensure multi-arch builds finish in under 1 minute.
 - **CVE Mitigated**: Strict adherence to security patches, eliminating end-of-life runtimes and critical vulnerabilities.
 - **Security-First**: Minimal base images, non-root execution where applicable, and automated scanning.
@@ -14,7 +14,7 @@ Production-ready, multi-architecture (`linux/amd64`, `linux/arm64`) Docker conta
 
 ---
 
-## 📦 Container Images Catalog
+## Container Images Catalog
 
 | Image | Repository | Registry | Supported Tags | Status |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ Production-ready, multi-architecture (`linux/amd64`, `linux/arm64`) Docker conta
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome community contributions! To add a new container image:
 1. Use our official blueprint template at [doksmith/doksmith](https://github.com/doksmith/doksmith).
